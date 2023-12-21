@@ -86,7 +86,7 @@ public class UI_Manager : MonoBehaviour
             "This is your National Insurance Number! it's a unique number that the government gives you", // 9
             "Here are your earnings! this is how much you get paid for working + A free Fox Star ! ^_^", // 10
             "Now, here's an important one Tax and National Insurance.These are some amounts taken out of your pay by the government to help pay for things like schools and hospitals", // 11
-            "This is where your tax number might be, this tell the government what tax bracket you are one.", // 12
+            "This is where your tax number might be, this tells the government what tax bracket you are on.", // 12
             "OH! the Fun part is coming up - YOUR TOTAL NET PAY! This is how much total you take home!", // 13
             "Lets have a rest! that was a lot of information", // 14
             "Reading a payslip is like solving a puzzle! It helps you understand how much you've earned and what's been taken out.", // 15
